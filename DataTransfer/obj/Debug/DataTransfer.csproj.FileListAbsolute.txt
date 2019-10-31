@@ -1,0 +1,39 @@
+D:\DataTransfer\DataTransfer\bin\Debug\DataTransfer.exe.config
+D:\DataTransfer\DataTransfer\bin\Debug\DataTransfer.exe
+D:\DataTransfer\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.AdminPanel.resources
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.frmDataTransfer.resources
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.FrmDestinationDbInfo.resources
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.FrmMapFields.resources
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.Properties.Resources.resources
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.TimeConfiguration.resources
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.GenerateResource.Cache
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.exe
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+D:\DataTransferwithTimex86x64\DataTransfer\bin\Debug\DataTransfer.exe.config
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.exe
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\DataTransferwithTimex86x64\DataTransfer\bin\Debug\DataTransfer.exe
+D:\DataTransferwithTimex86x64\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.AdminPanel.resources
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.frmDataTransfer.resources
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.FrmDestinationDbInfo.resources
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.FrmMapFields.resources
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.Properties.Resources.resources
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.TimeConfiguration.resources
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.csproj.GenerateResource.Cache
+D:\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\bin\Debug\DataTransfer.exe.config
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.exe
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.pdb
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\bin\Debug\DataTransfer.exe
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\bin\Debug\DataTransfer.pdb
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.AdminPanel.resources
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.frmDataTransfer.resources
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.FrmDestinationDbInfo.resources
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.FrmMapFields.resources
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.Properties.Resources.resources
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.TimeConfiguration.resources
+D:\Sourece Code\DataTransferwithTimex86x64\DataTransfer\obj\Debug\DataTransfer.csproj.GenerateResource.Cache

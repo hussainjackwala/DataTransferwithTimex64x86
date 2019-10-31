@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <FieldsMapping>
+    <SourceColumn>emp_code</SourceColumn>
+    <DestinationColumn>emp_code</DestinationColumn>
+    <ColumnDataType>TEXT</ColumnDataType>
+    <ConType>MYSQL</ConType>
+    <TableNameSource>emp_att_log</TableNameSource>
+    <TableNameDestination>emp_att_log</TableNameDestination>
+  </FieldsMapping>
+  <FieldsMapping>
+    <SourceColumn>att_date</SourceColumn>
+    <DestinationColumn>att_date</DestinationColumn>
+    <ColumnDataType>DATETIME</ColumnDataType>
+    <ConType>MYSQL</ConType>
+    <TableNameSource>emp_att_log</TableNameSource>
+    <TableNameDestination>emp_att_log</TableNameDestination>
+  </FieldsMapping>
+  <FieldsMapping>
+    <SourceColumn>att_status</SourceColumn>
+    <DestinationColumn>att_status</DestinationColumn>
+    <ColumnDataType>TEXT</ColumnDataType>
+    <ConType>MYSQL</ConType>
+    <TableNameSource>emp_att_log</TableNameSource>
+    <TableNameDestination>emp_att_log</TableNameDestination>
+  </FieldsMapping>
+  <FieldsMapping>
+    <SourceColumn>terminal</SourceColumn>
+    <DestinationColumn>terminal</DestinationColumn>
+    <ColumnDataType>INTEGER</ColumnDataType>
+    <ConType>MYSQL</ConType>
+    <TableNameSource>emp_att_log</TableNameSource>
+    <TableNameDestination>emp_att_log</TableNameDestination>
+  </FieldsMapping>
+</DocumentElement>

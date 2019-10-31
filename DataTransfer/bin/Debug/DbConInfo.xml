@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TblConnection>
+    <ServerName>localhost</ServerName>
+    <DbName>he_test</DbName>
+    <Uid>root</Uid>
+    <Pwd>test</Pwd>
+    <Type>MYSQL</Type>
+  </TblConnection>
+</DocumentElement>

@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TimeConfig>
+    <TminMinutes>1</TminMinutes>
+  </TimeConfig>
+</DocumentElement>

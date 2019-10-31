@@ -1,0 +1,9 @@
+21/09/2019 12:52:31   Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)   System.DllNotFoundException: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at System.Data.SQLite.UnsafeNativeMethods.sqlite3_config_none(SQLiteConfigOpsEnum op)
+   at System.Data.SQLite.SQLite3.StaticIsInitialized()
+   at System.Data.SQLite.SQLiteLog.Initialize(String className)
+   at System.Data.SQLite.SQLiteConnection..ctor(String connectionString, Boolean parseViaFramework)
+   at System.Data.SQLite.SQLiteConnection..ctor()
+   at DataTransfer.Common.ClassSqlLit.FillAllTables() in D:\DataTransferwithTimex86x64\DataTransfer\Common\ClassSqlLit.cs:line 110
+   at DataTransfer.FrmMapFields.FillSourceTables() in D:\DataTransferwithTimex86x64\DataTransfer\FrmMapFields.cs:line 58
+   at DataTransfer.FrmMapFields.btnBrowse_Click(Object sender, EventArgs e) in D:\DataTransferwithTimex86x64\DataTransfer\FrmMapFields.cs:line 721
